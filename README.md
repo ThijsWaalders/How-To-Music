@@ -1,3 +1,5 @@
+This README.md needs to be updated
+
 # How to Create Music
 
 In these documents I'll try to collect all the information that I've learned to create good sounding tracks _including real music theory_.
