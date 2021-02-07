@@ -4,11 +4,11 @@
 
 1. Load your sample / breakbeat
     - Set polyphonic to 4 or less (a person has only 2 arms and 2 legs, I mostly put it on Legato) and under PAD MODE set Choke Group to a number of choice
-2. Listen how much you want to tune in the sample and turn it back to 0 before you timestretch, you can set the amount of tune u want later in the stretch settings step 7
-3. Check the tempo of your sample by setting a midi note on the first beat, set your pattern length to the length of the sample in bars and be sure your sample is set to one-shot
-4. Turn on the metronome and hit play, tap the (Maschine) tempo while listening to your samples tempo. This will get you close to the right tempo
-5. Now fine adjust the tempo by checking if the play marker line reaches the end of the sample
-6. Now you have your samples tempo
+2. Check the tempo of your sample by setting a midi note on the first beat, set your pattern length to the length of the sample in bars and be sure your sample is set to one-shot
+3. Turn on the metronome and hit play, tap the (Maschine) tempo while listening to your samples tempo. This will get you close to the right tempo
+4. Now fine adjust the tempo by checking if the play marker line reaches the end of the sample
+5. Now you have your samples tempo
+6. Listen how much you want to tune in the sample and turn it back to 0 before you timestretch
 7. Turn off the auto tempo under timestretching and set it manually
 8. Set how much you want to tune your sample in the timestretch options
 9. Set samples BPM and set your new tracks tempo and apply (i've used auto and 2 bars this time)
