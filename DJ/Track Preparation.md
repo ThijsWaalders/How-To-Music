@@ -1,7 +1,7 @@
 # Track Preparation
 Enable the track prep mapping for the S4 and disable the other mappings.
-- Set transport Sync Mode to BeatSync
-- Set one Audio Output - Monitor to Master to hear the metronome's tick
+- Under **Transport**, set transport Sync Mode to BeatSync
+- Under **Output Routing**, set one Audio Output - Monitor to Master to hear the metronome's tick
 Check beatgrid for perfect beatmatch
 Reset Track- and Auto-gain and then set the Auto-gain
 
@@ -33,15 +33,10 @@ When done set cue points and flags for the perfect mix in/out, end of a phrase m
 
 # Flag Markers / Cue Points
 
-1. Fade in marker 32 bars before a new phrase starts
-2. Fade out marker 32 bars before a phrase ends
-3. Loop after the fade out marker
-
-<!--
-1. Load Marker on first (down)beat (or just use the fade in marker 32 bars before new phrase)
-2. Fade out marker 32 bars before a new phrase (you can find your mix in while DJing to match this fade out marker, just put it 32 bars before a new phrase)
-3. Loop (find a good loop after the fade out)
--->
+1. Cue 2 = Fade in marker 32 bars before the drop (or when a new phrase starts)
+2. Cue 1 = Load marker on the same spot as the fade in marker
+3. Cue 3 = Fade out marker 32 bars before a phrase ends
+4. Cue 4 = Loop after the fade out marker for rescue if you mis the fade out
 
 ### Resources:
 
