@@ -18,3 +18,7 @@
 2. Set the **Amp Env settings** to a **fast attack** (0), a **medium to long decay** (444ms), and a **long release** (3200ms)
 3. Now set the **Flt Env to change the Pitch to 12st**
 4. A pure sine ware lacks harmonics and tone which won't be hearable on small speakers so give it some **saturation** or **distortion**
+
+### Resources
+
+[How To Make 808 bass | Native Instruments](https://youtu.be/EfsDx3qK6-U)
